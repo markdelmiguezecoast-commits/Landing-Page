@@ -1,0 +1,231 @@
+body {
+    margin: 0;
+    background-color: #F8F1F1;
+    color: #3A292D;
+    font-family: Georgia, serif;
+}
+
+.navbar {
+    background-color: #2F2024;
+    color: white;
+    padding: 10px 0;
+}
+
+.navbar table {
+    width: 100%;
+    border: 0;
+}
+
+.brand {
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.navbar a:hover {
+    color: #E8C7C8;
+}
+
+.hero {
+    background-color: #F8F1F1;
+    text-align: center;
+    padding: 100px 20px;
+    border-bottom: 1px solid #D9A6A8;
+}
+
+.hero p:first-child {
+    color: #B76E79;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+
+.hero h1 {
+    font-size: 55px;
+    letter-spacing: 6px;
+    margin: 15px 0;
+    color: #2F2024;
+}
+
+.hero p:last-child {
+    font-size: 18px;
+    color: #6B3F46;
+}
+
+.description {
+    width: 65%;
+    margin: 70px auto;
+    padding: 55px;
+    text-align: center;
+    background-color: white;
+    border: 1px solid #E8C7C8;
+    border-radius: 15px;
+    box-shadow: 0 8px 25px rgba(107, 63, 70, 0.08);
+}
+
+.description h2 {
+    font-size: 35px;
+    color: #6B3F46;
+}
+
+.description h3 {
+    font-size: 25px;
+    color: #B76E79;
+}
+
+.description p {
+    font-size: 17px;
+    line-height: 1.8;
+}
+
+.shop-link {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 14px 35px;
+    background-color: #6B3F46;
+    color: white;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+.shop-link:hover {
+    background-color: #B76E79;
+}
+
+.about {
+    width: 70%;
+    margin: 80px auto;
+    padding: 55px;
+    text-align: center;
+    background-color: #F3E1E2;
+    border-top: 1px solid #D9A6A8;
+    border-bottom: 1px solid #D9A6A8;
+}
+
+.about h2 {
+    font-size: 35px;
+    color: #6B3F46;
+}
+
+.about p {
+    font-size: 17px;
+    line-height: 1.8;
+}
+
+.collection {
+    width: 85%;
+    margin: 80px auto;
+    text-align: center;
+}
+
+.collection h2 {
+    font-size: 35px;
+    color: #6B3F46;
+    margin-bottom: 35px;
+}
+
+.collection table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+.collection th {
+    padding: 18px;
+    background-color: #6B3F46;
+    color: white;
+}
+
+.collection td {
+    padding: 18px;
+    border: 1px solid #E8C7C8;
+}
+
+.collection tr:hover {
+    background-color: #F8E9E9;
+}
+
+.why-choose {
+    padding: 70px 20px;
+    text-align: center;
+    background-color: #F3E1E2;
+}
+
+.why-choose h2 {
+    font-size: 35px;
+    color: #6B3F46;
+    margin-bottom: 35px;
+}
+
+.reason {
+    display: inline-block;
+    vertical-align: top;
+    width: 220px;
+    min-height: 150px;
+    margin: 10px;
+    padding: 25px;
+    background-color: white;
+    border: 1px solid #E8C7C8;
+    border-radius: 12px;
+}
+
+.reason h3 {
+    font-size: 20px;
+    color: #B76E79;
+}
+
+.reason p {
+    line-height: 1.6;
+}
+
+.shop {
+    padding: 90px 20px;
+    text-align: center;
+    background-color: #2F2024;
+    color: white;
+}
+
+.shop h2 {
+    font-size: 40px;
+    color: #F8E9E9;
+}
+
+.shop p {
+    font-size: 18px;
+    color: #E8C7C8;
+}
+
+.shop button {
+    margin-top: 20px;
+    padding: 15px 40px;
+    border: 1px solid #C9A96E;
+    background-color: #C9A96E;
+    color: #2F2024;
+    font-family: Georgia, serif;
+    font-size: 16px;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+
+.shop button:hover {
+    background-color: #B76E79;
+}
+
+
+
+.footer {
+    padding: 30px;
+    text-align: center;
+    background-color: #21171A;
+    color: #E8C7C8;
+}
+
+.footer p {
+    margin: 8px;
+}
+
